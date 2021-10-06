@@ -16,7 +16,7 @@ sections:
     badge:
       elementId: ''
       label: lorem-ipsum
-    title: My Title!!!
+    title: My Title!!!?!?!?!
     subtitle: This Is Subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
